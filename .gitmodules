@@ -1,0 +1,9 @@
+[submodule "TT-main"]
+	path = TT-main
+	url = https://github.com/TupikDev/TT-main
+[submodule "TT-metrics"]
+	path = TT-metrics
+	url = https://github.com/TupikDev/TT-metrics
+[submodule "TT-notif"]
+	path = TT-notif
+	url = https://github.com/TupikDev/TT-notif
